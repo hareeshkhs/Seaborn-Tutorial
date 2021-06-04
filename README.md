@@ -1,2 +1,2 @@
 # Seaborn-Tutorial
-All about Seaborn
+All about Python Seaborn
